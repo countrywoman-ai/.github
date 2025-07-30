@@ -1,0 +1,1 @@
+To update the platform, deploy is required.
